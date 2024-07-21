@@ -30,7 +30,6 @@ while (d < 151)
 {
     total=total+d;
     d++;
-
 }
 Console.WriteLine("50 ile 150 arasındaki sayıların toplamı" + " " + total);
 
